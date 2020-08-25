@@ -56,3 +56,5 @@ BootPak package map:
 
 You can create You own repo with You own software!
 You can also create you own packages!
+
+NOTE: To run it don't type './boot.sh', you must type 'bash boot.sh'!

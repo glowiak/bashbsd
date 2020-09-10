@@ -14,6 +14,9 @@ ver - Show BashBSD version
 DEPENDIENSES:
 -bash
 -wget
+-unxz
+-tar
+-vi
 !NOTE! YOU MUST INSTALL THERE DEPENDIENSES,TO GET SYSTEM WORK!
 
                                         DOWNLOAD:
@@ -58,3 +61,6 @@ You can create You own repo with You own software!
 You can also create you own packages!
 
 NOTE: To run it don't type './boot.sh', you must type 'bash boot.sh'!
+
+v5.00 isn't 5.00-RELEASE, it's 5.00-ROLLING (like ArchLinux :D)
+I will create an univernal install CD (sh file ;D) and commands to install OS enjoy!

@@ -78,7 +78,9 @@ livepkg
 # Launch LivePKG tool and type in it base<version>
 cuser
 # Create an user
+hostname-set
+# Set hostname
 # Done!
 
-Current base package is: 5
-Old base packages: (nothing)
+Current base package is: 6
+Old base packages: 5

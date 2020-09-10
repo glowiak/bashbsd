@@ -20,11 +20,15 @@ DEPENDIENSES:
 !NOTE! YOU MUST INSTALL THERE DEPENDIENSES,TO GET SYSTEM WORK!
 
                                         DOWNLOAD:
+ROLLING InstallCD: http://github.com/glowiak/BashBSD/raw/master/install.sh.xz
 v4.00-RELEASE: http://github.com/glowiak/BashBSD/raw/master/BashBSD_v4.00.tar.Z
 
 This files are compressed with Z, to extract it type:
 uncompress BashBSD_vX.XX.tar.Z
 tar -xvf BashBSD_vX.XX.tar
+
+InstallCD is compressed with xz, to extract it type:
+unxz install.sh.xz
 
 To run it on Window$ use WSL or try BatchBSD http://github.com/glowiak/BatchBSD
 
@@ -64,3 +68,17 @@ NOTE: To run it don't type './boot.sh', you must type 'bash boot.sh'!
 
 v5.00 isn't 5.00-RELEASE, it's 5.00-ROLLING (like ArchLinux :D)
 I will create an univernal install CD (sh file ;D) and commands to install OS enjoy!
+Commands to install BashBSD:
+# Extract and run InstallCD and type:
+seldir
+# Choose directory to install BashBSD in it
+chroot
+# Chroot to selected directory
+livepkg
+# Launch LivePKG tool and type in it base<version>
+cuser
+# Create an user
+# Done!
+
+Current base package is: 5
+Old base packages: (nothing)

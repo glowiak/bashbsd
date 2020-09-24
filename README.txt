@@ -82,5 +82,7 @@ hostname-set
 # Set hostname
 # Done!
 
-Current base package is: 6
-Old base packages: 5
+Current base package is: 7
+Old base packages: 6;5
+
+After a month of nothing v7 is out :)

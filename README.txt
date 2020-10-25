@@ -86,3 +86,7 @@ Current base package is: 7
 Old base packages: 6;5
 
 After a month of nothing v7 is out :)
+
+I don't have ideas to next updates, but I made KshBSD (BashBSD ported to Korn SHell): http://github.com/glowiak/kshbsd
+
+FreeOS (I'm making BashBSD in Python 2, but it's named FreeOS) v1.0 codename Mercury work in progress
